@@ -4,4 +4,4 @@ My tasks for the Junior code reviewer test as instructed on: https://github.com/
 1. Section A : Option 1 - Python Task
 2. Section B: Projects shared on Github page;
 3. Section C: Code Challenge - Option 4
-4. Loom Video
+4. Section D: Loom Video
